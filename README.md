@@ -1,0 +1,1 @@
+Detect color | Computer Vision
